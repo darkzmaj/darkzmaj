@@ -43,7 +43,7 @@
 
 ## 📫 Let’s Connect
 
-- **Email**: contact@darkzmaj.online  
+- **Email**: contact@emkej.online  
 - **Location**: Slovenia  
 
 ---
