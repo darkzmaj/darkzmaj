@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Maj Kovacic (aka EMKEJ / Cryvex Co‑Founder)
+# 👋 Hi, I’m Maj Kovacic (aka DarkZmaj / Cryvex Co‑Founder)
 
 🎮 17‑year‑old tech enthusiast from Slovenia, passionate about **servers**, **cybersecurity**, **gaming**, and **creative media**.
 
@@ -18,7 +18,6 @@
 *Not everything is listed here (it either doesn't exist anymore or in development)
 | Project | Description | Tech |
 |--------|-------------|------|
-| **SloBlock Minecraft Server** | Built with love and ideas with engaging gameplay | — |
 | **Cheppy** | Social platform for chat & video calls | — |
 | **Lets Talk!** | Roblox hangout game featuring voice chat & minigames | — |
 | **Personal Portfolio** | Showcases my work and skills with modern design and animations | HTML, CSS, JS |
@@ -43,7 +42,7 @@
 
 ## 📫 Let’s Connect
 
-- **Email**: contact@emkej.eu  
+- **Email**: contact@darkzmaj.online 
 - **Location**: Slovenia  
 
 ---
