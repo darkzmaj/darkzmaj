@@ -15,7 +15,7 @@
 ---
 
 ## ⚙️ Projects
-*Not everything is listed here (it either doesn't exist anymore or in development)
+*Not everything is listed here (it either doesn't exist anymore, in development or I just didn't put it here)
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Cheppy** | Social platform for chat & video calls | — |
