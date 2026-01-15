@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - Co‑Founder of **Cryvex**, where we develop innovative digital solutions 🎯  
-- Fluent in **HTML**, **CSS**, **JavaScript**  
+- Fluent in **HTML**, **CSS**, **JavaScript**, **Java**  
 - Skilled in **UI/UX**, **logo & graphic design**, **Photoshop**, **video editing**  
 - Experienced in **server setup**, **network management**, and **security optimization**  
 - Driven by pushing tech boundaries and always eager to **learn** and **collaborate**
