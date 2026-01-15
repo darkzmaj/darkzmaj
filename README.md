@@ -42,7 +42,7 @@
 
 ## 📫 Let’s Connect
 
-- **Email**: contact@darkzmaj.online 
+- **Email**: contact@darkzmaj.eu 
 - **Location**: Slovenia  
 
 ---
