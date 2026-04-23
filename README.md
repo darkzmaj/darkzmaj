@@ -21,7 +21,7 @@
 | **Cryvex** | Welcome to the Future | Infinity |
 | **Terona Studios** | Premium solutions for modern gamers, owners, creators, developers. Creating extraordinary experiences that bring your vision to life | — |
 | **Personal Portfolio** | Showcases my work and skills with modern design and animations | HTML, CSS, JS |
-| **Cryvex Dev** | A development studio creating immersive digital experiences | HTML, CSS, JS |
+| **Cryvex Dev (Now merged with Cryvex)** | A development studio creating immersive digital experiences | CSS, REACT, TYPESCRIPT |
 
 ---
 
