@@ -1,51 +1,5 @@
-# 👋 Hi, I’m Maj Kovacic (aka DarkZmaj / Cryvex Co‑Founder)
+I'm Maj, a 17-year-old from Slovenia with a passion for technology, gaming, cybersecurity and building meaningful digital experiences. I co-founded Cryvex to ship ideas rapidly and learn by doing.
 
-🎮 17‑year‑old tech enthusiast from Slovenia, passionate about **servers**, **cybersecurity**, **gaming**, and **creative media**.
+_Beyond writing code I enjoy designing interfaces, optimizing infrastructure, and experimenting with creative media (video editing, Photoshop, brand identity). I love iterating, refining systems, and pushing performance, security and polish._
 
----
-
-## 🧠 About Me
-
-- Co‑Founder of **Cryvex**, where we develop innovative digital solutions 🎯  
-- Fluent in **HTML**, **CSS**, **JavaScript**, **Java**  
-- Skilled in **UI/UX**, **logo & graphic design**, **Photoshop**, **video editing**  
-- Experienced in **server setup**, **network management**, and **security optimization**  
-- Driven by pushing tech boundaries and always eager to **learn** and **collaborate**
-
----
-
-## ⚙️ Projects
-*Not everything is listed here (it either doesn't exist anymore, in development or I just didn't put it here)
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Cryvex** | Welcome to the Future | Infinity |
-| **Terona Studios** | Premium solutions for modern gamers, owners, creators, developers. Creating extraordinary experiences that bring your vision to life | — |
-| **Personal Portfolio** | Showcases my work and skills with modern design and animations | HTML, CSS, JS |
-| **Cryvex Dev (Now merged with Cryvex)** | A development studio creating immersive digital experiences | CSS, REACT, TYPESCRIPT |
-
----
-
-## 🎨 Design & Media
-
-- Created digital art, server branding, UI/UX visuals  
-- Proficient with Photoshop and video editing tools  
-- Enjoy crafting immersive visual experiences
-
----
-
-## 🚀 What I’m Looking For
-
-- 📈 New server development & cybersecurity collaborations  
-- 💡 Tech, gaming, or media‑centric opportunities  
-- 🤝 Any project where quality, innovation, and security matter
-
----
-
-## 📫 Let’s Connect
-
-- **Email**: contact@darkzmaj.eu 
-- **Location**: Slovenia  
-
----
-
-*Thanks for checking out my profile—let’s build something awesome together!*
+**FIND OUT MORE AT:** https://darkzmaj.eu
